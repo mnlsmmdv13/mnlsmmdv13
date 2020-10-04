@@ -1,9 +1,15 @@
 <h1 align="center">Hey 👋, I'm Ahmed Affaan</h1>
-<h3 align="center">Second year CS student from the Maldives 🌴🇲🇻</h3>
+<h3 align="center">A passionate CS student from the Maldives 🌴🇲🇻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnlsmmdv13" alt="mnlsmmdv13" /> </p>
 
+- 🔭 I’m currently working on **dadsa and os**
+
 - 🌱 I’m currently learning **Python and C++ 👨‍💻**
+
+- 👯 I’m looking to collaborate on **dadsa**
+
+- 🤝 I’m looking for help with **dadsa and os**
 
 - 💬 Ask me about **Java and C#**
 
