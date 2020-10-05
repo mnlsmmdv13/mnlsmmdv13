@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnlsmmdv13" alt="mnlsmmdv13" /> </p>
 
-- 🔭 I’m currently working on **dadsa and os**
+- 🔭 I’m currently working on **DADSA and OS for my UWE CS degree**
 
-- 🌱 I’m currently learning **Python and C++ 👨‍💻**
+- 🌱 I’m currently learning **Python and C++**
 
-- 👯 I’m looking to collaborate on **dadsa**
+- 👯 I’m looking to collaborate on **DADSA**
 
-- 🤝 I’m looking for help with **dadsa and os**
+- 🤝 I’m looking for help with **DADSA and OS**
 
 - 💬 Ask me about **Java and C#**
 
