@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ahmed Affaan 👨‍💻</h1>
-<h3 align="center">A second year Computer Science's student from the Maldives 🌴🇲🇻</h3>
+<h3 align="center">A second year CS student from the Maldives 🌴🇲🇻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnlsmmdv13" alt="mnlsmmdv13" /> </p>
 
